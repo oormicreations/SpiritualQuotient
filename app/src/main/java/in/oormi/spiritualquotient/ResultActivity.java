@@ -45,6 +45,10 @@ public class ResultActivity extends AppCompatActivity {
         SQApp sqApp = (SQApp) this.getApplication();
         quiz = sqApp.getQuiz();
         qdb = sqApp.getQdb();
+
+        if (quiz == null) finish();
+        if (qdb == null) finish();
+
         int pbCount = quiz.getSectionCount();
 
         int[] progressBarsIds = {R.id.progressBar1, R.id.progressBar2

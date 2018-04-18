@@ -14,7 +14,7 @@ import java.net.URLConnection;
 public class SqRankData extends AsyncTask<String, Void, String> {
     private static final String SQTAG = "SqData";
     private int reconnectCount = 1;
-    private String verStr = "1.0.0";
+    private String verStr = "1.0.2";
 
     @Override
     protected String doInBackground(String... msgList) {
@@ -56,7 +56,7 @@ public class SqRankData extends AsyncTask<String, Void, String> {
 
         try
         {
-            URL url = new URL("http://oormi.in/software/sq/sq01.php");
+            URL url = new URL("https://oormi.in/software/sq/sq01.php");
             data = data + "&ver=" + verStr;
             Log.i(SQTAG, data);
 

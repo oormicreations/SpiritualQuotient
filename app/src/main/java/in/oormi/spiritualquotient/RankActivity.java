@@ -59,7 +59,7 @@ public class RankActivity extends AppCompatActivity {
         return activeNetworkInfo != null && activeNetworkInfo.isConnected();
     }
 
-    private void ShowGraph(String result, int userScore) {
+    private void ShowGraph(String result, int userScore) { //TODO:Prevent data update everytime the user clicks Rank button
 
         TextView textView1 = (TextView) findViewById(R.id.textViewGraph);
         TextView textView2 = (TextView) findViewById(R.id.textViewRank);
