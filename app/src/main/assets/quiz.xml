@@ -613,4 +613,208 @@
          </options>
       </question>
    </section>
+   <section id="7" name="Critical Thinking">
+   <question q="We can certainly trust -">
+      <options>
+         <option op="Media, TV, Internet, Newspaper and magazines">
+            <score>1</score>
+            <explanation>These are certainly a means to get information about everyday happenings. However, most of the sources are motivated by profit. Negativity, pettiness, superficiality, consumerism and sensationalism or anything that can sell their content more, shall be served to the masses.</explanation>
+         </option>
+         <option op="Political, corporate and religious leaders">
+            <score>0</score>
+            <explanation>Their job is to control and manipulate people by deceit and brainwashing. They would say anything and do anything to remain in power or to acquire resources or money. These are the least reliable of all. Although sometimes we find exceptions, but it is not worth the risk. Only a very gullible person of an intelligence lower than average would blindly trust them.</explanation>
+         </option>
+         <option op="Scientists, professors and engineers">
+            <score>2</score>
+            <explanation>They are surely more reliable compared to other figures of authority since they have to prove their claims, but they are not infallible. Their knowledge is limited, they are perhaps an expert in their own narrow field but cannot be relied upon regarding anything that lies outside their field. Many are encumbered with beliefs.</explanation>
+         </option>
+         <option op="Direct observation, logic and rational inferences">
+            <score>3</score>
+            <explanation>A seeker trusts nothing but his/her own direct experience. Nothing else will provide you the needed knowledge. An experience in turn must be subjected to logical analysis. Some useful conclusions can be derived via rational and logical means. However, the seeker needs to be really good in this art and must cultivate a very sharp intelligence. Those who are not good enough in such abilities, end up trusting someone else. A better way is to remain agnostic till you become an expert in evaluating your own experiences. It is also recommended to train under an experienced teacher.</explanation>
+         </option>
+      </options>
+   </question>
+       <question q="A spiritual teacher or Guru is always right">
+           <options>
+               <option op="True">
+                   <score>1</score>
+                   <explanation>This answer points to an extreme trust towards the teacher. Perhaps some of the exceptional teachers are never wrong, and then you are very fortunate to have such a Guru, but in general they are all humans, they are also likely to be wrong occasionally. Blind faith leads to a disaster.</explanation>
+               </option>
+               <option op="False">
+                   <score>0</score>
+                   <explanation>This answer points to an extreme distrust towards the teachers. Perhaps it was your past bad experience, but it can be a gross generalization. Its true that a teacher is not perfect, but a student needs to start somewhere, and if the student assumes that all teachers are liars, there is no hope of gaining any knowledge.</explanation>
+               </option>
+               <option op="Depends on his/her ethical conduct as evaluated by people">
+                   <score>2</score>
+                   <explanation>Although this option points to some careful thinking, but a truth spoken by a criminal is still the same truth. Ethical conduct is a subjective matter. People are not generally capable of evaluating a teacher. A teacher by definition, knows more than the average person. Truth must be judged by one's own experience, not by the criterion of ethics or (so called) good conduct of anyone. However, if there is a general agreement among the experienced students about uselessness of a certain teacher, its best to look for someone with a good reputation. Anyhow, you need to be very cautious and careful as always.</explanation>
+               </option>
+               <option op="They are as unreliable as anyone else. The truth of a teaching is independent of who teaches it.">
+                   <score>3</score>
+                   <explanation>This is the best attitude to take. Listen to all teachers, but accept only that which your direct experience supports. It does not matter who is teaching, whether he is a big Guru or even a non spiritual worldly person, truth is truth. It is possible to develop a long term relation with a teacher who proves to be mostly right in your experience, and then some trust and faith comes naturally.</explanation>
+               </option>
+           </options>
+       </question>
+       <question q="If a book is a few thousand years old and many people believe its contents then my conclusion is -">
+           <options>
+               <option op="The book is only a pointer to knowledge. Truth of a teaching is to evaluated by the seeker using his/her own direct experience and logical thinking.">
+                   <score>3</score>
+                   <explanation>A books is a means to transfer information. Information is not knowledge. Knowledge comes only via experience. Information gives a hint, it points to a direction we can take. So yes, sometimes an old book can also be useful, but that is not because it is old or because a majority of people blindly believe it, its because your own experience agrees with the teachings written there. Age of it is inconsequential.</explanation>
+               </option>
+               <option op="Depends on who endorses that book. If the people I know and trust recommend it then I should consider it worthy of my time.">
+                   <score>2</score>
+                   <explanation>It surely makes it more likely that the book has some real substance if the people you know, such as your teacher or fellow seekers, recommend it. However you will never know till you experience whatever is written there. Perhaps it worked for your Guru or friends, but it needs to become your truth to be of any use.</explanation>
+               </option>
+               <option op="Depends on the age of the book and the person who wrote it. Older the better. More respected the author is, more is my trust on it.">
+                   <score>1</score>
+                   <explanation>There is some logical problem here. The age of the book is not an evidence of the truth. A fake book can also be of same age. Mischievous people existed since the beginning of the history. Similarly if people respect the author that does not magically make the writings of that author true. It is not wise to trust people, especially those who know nothing in that field. As usual your experience is your truth, not the book, not the author, not the people.</explanation>
+               </option>
+               <option op="That book is unquestionably true, especially if it belongs to my religion or faith.">
+                   <score>0</score>
+                   <explanation>Points to deep ignorance. It is not wise to just blindly believe. Others have fed you their notions of what is true, and you have uncritically accepted them. It is time to wake up and examine your beliefs. Question everything.</explanation>
+               </option>
+           </options>
+       </question>
+       <question q="If 80 out of 100 people in your town hold a specific belief, then you will - ">
+           <options>
+               <option op="Ridicule them if it is not what I believe">
+                   <score>0</score>
+                   <explanation>It is not a wise thing to do. A belief is a belief. You have one kind and the others have a different kind. Both are ignorant. An egoic person assumes his belief as truth and ridicules others, this leads to insults and violence and even wars.</explanation>
+               </option>
+               <option op="Surely the majority cannot be wrong. I will believe as they say. Strength lies in unity.">
+                   <score>1</score>
+                   <explanation>Majority opinions cannot be trusted. This criteria is a recipe for disaster. Your own direct experience is a better criteria to judge the truth about something. In the absence of direct knowledge, remain agnostic and seek the answers yourself, if you are interested. Usually people get indoctrinated into belief since childhood, or they simply conform to the majority due to fear of being outcasted or fear of ridicule. It is true that there is strength in unity, even if the crowd is totally ignorant and stupid. We should not underestimate the power of such crowds.</explanation>
+               </option>
+               <option op="I will investigate it and will look for a solid evidence for such a belief. Truth is not democratic.">
+                   <score>3</score>
+                   <explanation>That is the proper attitude. You are a seeker material. A seeker ignores what people say, and searches for his own evidence. Your experience is your evidence.</explanation>
+               </option>
+               <option op="I will take the other one which rest of the 20 believe. I do not like herd mentality. I know 90% of everything is garbage. Elite are a handful and their beliefs are very different from those of masses.">
+                   <score>2</score>
+                   <explanation>Your suspicions of majority being wrong most of the time are fair. Perhaps you do not like the herd mentality, but you are still acting as if you have a herd mentality. It is not wise to follow the herd of so called elite, or exceptional people. They are exceptional only because they followed no one. They followed the truth. Truth is gained via knowledge. Knowledge comes via direct experience. There is no other way to know. Best to leave the minority also and investigate it yourself.</explanation>
+               </option>
+           </options>
+       </question>
+       <question q="In case my direct experience is contradictory to what I already know -">
+           <options>
+               <option op="That experience is surely an illusion. It has to agree with what I know to be true.">
+                   <score>0</score>
+                   <explanation>It is not logical to jump to such conclusions without double checking your experience as well as your existing knowledge. Try to investigate further, or seek guidance from your teacher. Perhaps you need to throw your so called knowledge, never be so certain.</explanation>
+               </option>
+               <option op="Probably that points to an incomplete knowledge. I will investigate further.">
+                   <score>3</score>
+                   <explanation>Yes that is most probable indeed. Spiritual knowledge is often paradoxical in nature. Sometimes we think we know everything, only to find an experience which totally contradicts our existing knowledge and understanding. It simply means you have not looked at it from all points of views or from all levels. This is a golden opportunity to know more.</explanation>
+               </option>
+               <option op="I will carefully note it, and consult my teacher. Perhaps I made a mistake somewhere.">
+                   <score>2</score>
+                   <explanation>It is nice that you are careful and you did not impulsively dismiss it quickly. It is also good to consult your teacher. However the real mistake is not to investigate it yourself and simply assume a mistake somewhere. Dependency on a teacher is not good, probably that experience is asking you to explore more. If you think there is a mistake try to find it out yourself. If you cannot find a mistake, it is an opportunity to know more. New knowledge is waiting for you.</explanation>
+               </option>
+               <option op="I must trash all that which I already know. The new experience overrides the old knowledge. This is how we progress.">
+                   <score>1</score>
+                   <explanation>Such haste is not really necessary. Carefully re-evaluate your experience. Experiment more. Perhaps there are big holes in your existing knowledge, but that does not mean that all of it is useless. We do progress by gradually refining our knowledge, but at each step we need to be very sure. Do not simply throw away the past knowledge just because it cannot explain just one experience. However, in rare cases it can happen that a single experience overthrows all past knowledge, in which case you are very fortunate indeed.</explanation>
+               </option>
+           </options>
+       </question>
+   </section>
+    <section id="8" name="Science">
+        <question q="What is the difference between science and materialism?">
+            <options>
+                <option op="No difference. Science is based on materialism.">
+                    <score>0</score>
+                    <explanation>Science is a path which takes us to newer and newer knowledge. Materialism is a dead end which claims to know everything. Equating them would be a big mistake. Materialism is one of the belief systems that fell out of the scientific path among many others. It is based on science of physical things, not the other way round.</explanation>
+                </option>
+                <option op="Science is a way of obtaining knowledge via experimentation and theories. Materialism is a belief system or philosophy concerning the concept of matter.">
+                    <score>3</score>
+                    <explanation>You have the correct understanding. Anything which claims to know everything becomes very suspicious for a seeker. It becomes a matter of blind faith.</explanation>
+                </option>
+                <option op="Science has a broader scope compared to materialism. For example we have soft sciences like psychology, sociology and medical sciences.">
+                    <score>2</score>
+                    <explanation>That is true. Materialism is more limited in scope, science is more open and progressive. But the main difference is - science is a self correcting process, materialism assumes that everything that can be known is already known and it is matter. There is some hope for science, but materialism is a dead end.</explanation>
+                </option>
+                <option op="Science is a study of matter and materialism is a lifestyle which points to the truths discovered by science.">
+                    <score>1</score>
+                    <explanation>There are some big assumptions here. Science is by definition, a study of all phenomena, material or non material. Its just that it has been more successful in the case of matter. Which is only a half truth since it proved the non existence of matter. However, materialism holds on to such beliefs religiously. It disregards scientific findings entirely.</explanation>
+                </option>
+            </options>
+        </question>
+        <question q="Scientific method is:">
+            <options>
+                <option op="About formulating theories and explaining the workings of this universe via mathematics.">
+                    <score>2</score>
+                    <explanation>Although it is a major activity, science is not only that. That would be theoretical sciences, a branch of science. The foundation of science is empirical knowledge. No matter how good a theory is and how nicely a phenomenon obeys a mathematical equation, if it cannot be demonstrated via repeatable experiments, it is not a valid theory.</explanation>
+                </option>
+                <option op="A way to arrive at the truth.">
+                    <score>0</score>
+                    <explanation>This is a common misconception. Science does not deal with truths. Truth falls into the domain of philosophy. Science is about observation, explanation and falsification of theories.</explanation>
+                </option>
+                <option op="A way to discover the laws that govern the universe.">
+                    <score>1</score>
+                    <explanation>Although they are called laws, they keep changing as science progresses. So they are not really laws, just models. And hence science is a process of continuous refinement of models that match the observations more and more closely.</explanation>
+                </option>
+                <option op="Falsification of hypotheses via empirical means.">
+                    <score>3</score>
+                    <explanation>That is surely the essence of science. A hypothesis is a set of reasonable assumptions, which can be falsified. And if they can be falsified, they become a theory or a model of the actual phenomenon under scrutiny. Scientific process is a continuous refinement of models via repeated experimentation.</explanation>
+                </option>
+            </options>
+        </question>
+        <question q="Technology is:">
+            <options>
+                <option op="Application of scientific knowledge for the betterment of human life.">
+                    <score>3</score>
+                    <explanation>Ideally that is the definition. Science itself is neutral, like all knowledge it. A corrupt mind can surely use it for destructive purposes. But then everything has a dark side.</explanation>
+                </option>
+                <option op="An art and a means to provide us with useful tools and gadgets.">
+                    <score>1</score>
+                    <explanation>This is surely a good definition but a more correct definition is that it is applied science. The aim is not to build things, the aim is to solve problems. We do not really need tools and gadgets.</explanation>
+                </option>
+                <option op="A demonstration of the truths discovered via science. An indisputable evidence for scientific facts.">
+                    <score>0</score>
+                    <explanation>It is neither. Science does not deal with truths. Technology marches on even when the knowledge is incomplete. There is no such thing as a scientific fact, the so called facts keep changing as scientific knowledge is refined via new discoveries and new models.</explanation>
+                </option>
+                <option op="Human endeavour for making the survival less painful. However they are lost and using it to destroy the environment and make wars.">
+                    <score>2</score>
+                    <explanation>It is indeed a great definition. Necessity is the mother of invention. A lot of survival has been solved via science and technology, and obviously a lot of problems were created in the process. However, the nature of the problems is social or mental. Science and technology are neutral, just ways to gain knowledge, apply that knowledge and solve problems. Negative applications are due to human ignorance. It is not wise to drag the human factor into pure science and technology. Human nature does not define them.</explanation>
+                </option>
+            </options>
+        </question>
+        <question q="A scientist is a person:">
+            <options>
+                <option op="Who is much more intelligent than an average person and has some big degrees under his belt.">
+                    <score>1</score>
+                    <explanation>Education may not be a defining factor, some great scientists and inventors had ordinary education. Many has ordinary levels of intelligence. What differentiates a scientist from a scholar? A scientist has great passion for knowledge, his education does not become an obstacle for his creative imagination. He is not driven by books or degrees, he eyes on the unknown.</explanation>
+                </option>
+                <option op="Who has achieved something of significance in a specific field of science.">
+                    <score>2</score>
+                    <explanation>That would be a fair criteria. But achievement is not really the main goal of a scientist, it is knowledge. Obviously a breakthrough in knowledge is as good as an achievement. Remember those who achieved a great breakthrough but were not recognized as great scientists, people even ridiculed them and some were tortured. They were the great scientists, there are still many such great minds, whom no one understands.</explanation>
+                </option>
+                <option op="Who is passionate about knowledge and is very curious. Such a person is also very open minded and willing to share the knowledge with all.">
+                    <score>3</score>
+                    <explanation>That defines a true scientist. Passion for knowledge and extreme curiosity are hallmarks of a real scientist. They are rebels, do not worry too much about the so called establishment, for them knowledge is more important not their image. They have a great imagination and intuition. A true scientist is actually a spiritual seeker.</explanation>
+                </option>
+                <option op="Who is involved in research and development and works under government agencies or for industries, under entrepreneurs.">
+                    <score>0</score>
+                    <explanation>They would be science workers, not scientists. Although many among them are brilliant, they use science as a means of livelihood. They have a passing interest in gaining knowledge or learning something new, unless it aid their so called carrier. They are mostly closed minded people interested in keeping the status quo, since any change in that would negatively impact their earnings and also prestige. So they are terrified of any major change in the science and oppose paradigm shifts mindlessly or sometimes with a bad intention. </explanation>
+                </option>
+            </options>
+        </question>
+        <question q="What is the relation between science and spirituality?">
+            <options>
+                <option op="Spirituality is also a science. So they are one and the same.">
+                    <score>2</score>
+                    <explanation>That is not totally wrong, since the goal is only one - knowledge. However, science has deviated more towards physical things, and currently there is a total disregard for anything other than matter. Spirituality is still on the track, the goal is knowledge of all kinds, including that of a physical world.</explanation>
+                </option>
+                <option op="Science is a sub-set of spirituality.">
+                    <score>3</score>
+                    <explanation>Yes it is. Out of the four kinds of experiences we can capable of, science reaches only up to one and a half. The four kinds of experiences are - world, body, mind and consciousness. The body has an objective part and a subjective part, while the mind is totally subjective, and consciousness is beyond objective and subjective. Science touches the obviously objective experiences a bit, and ignores everything else. Spirituality encompasses all experience.</explanation>
+                </option>
+                <option op="Both are a quest for knowledge, although spirituality is mostly inexact and subjective while science is precise and objective.">
+                    <score>1</score>
+                    <explanation>Spiritual studies are more precise compared to science. There is no objective experience, only subjective experience. Reality is purely subjective. Objective experience is a small part of the total subjective experience where there is consensus. Science is not very precise, it keeps changing the theories and laws very frequently. It is a gradual process of refinement. Nothing is certain in the field of science. On the other hand, spiritual teachings hardly change. They are the same since thousands of years. It is very difficult to challenge anything spiritual and it is difficult to discover anything new in the field of spirituality.</explanation>
+                </option>
+                <option op="Science is exactly opposite of spirituality. In fact it has debunked most of the spiritual beliefs.">
+                    <score>0</score>
+                    <explanation>Science and spirituality go hand in hand. Both aim for knowledge, freedom and happiness. If they seem opposite, it can be because of the brainwashing by those who wish to keep masses ignorant and under their firm grip. Those who really practice science or spiritual matters, know very well what they are. The rest are ignorant. Like any other human undertaking, it is the nature of the person that determines the quality of what he or she is doing. Spirituality in the hands of an ignorant person turns into blind belief or superstition. So does science. Science has a low tolerance for such things, and hence we see such beliefs getting destroyed by more intelligent people. Science itself gets corrupted and then it self corrects, it debunks itself.</explanation>
+                </option>
+            </options>
+        </question>
+    </section>
 </SqQuiz>

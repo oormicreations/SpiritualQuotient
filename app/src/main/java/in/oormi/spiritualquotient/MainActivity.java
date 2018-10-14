@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
     private boolean CheckQDB() {
         int ns = qdb.getSectionCount();
         int nq = qdb.getQueCount();
-        if ((ns < 1) || (nq < 1)) {
+        if ((ns < 1) || (nq < 1)) {/*its a hack TODO: add versioning*/
             readXml(null, true);
             qdb.onUpgrade(qdb.getWritableDatabase(), 1, 1);
             qdb.insertData(quiz);
@@ -364,7 +364,7 @@ public class MainActivity extends AppCompatActivity {
 
         if (builtIn) {
             try {
-                inputStream = getResources().getAssets().open("quiz.xml");
+                inputStream = getResources().getAssets().open("quiz_sample.xml");
             } catch (IOException e) {
                 e.printStackTrace();
             }
